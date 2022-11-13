@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Teste aplicativo",
-    "slug": "Teste React",
+    "name": "PrimeVideo Clone",
+    "slug": "com.felipeholanda.primevideo.clone",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -9,7 +9,7 @@
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#232f3e"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
